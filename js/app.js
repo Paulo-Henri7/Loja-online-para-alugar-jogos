@@ -1,5 +1,10 @@
 function alterarStatus(id) {
-    alterarBotao(id);
+    let resposta = prompt("Deseja realmente alugar/devolver?(S/N)");
+    if (resposta == "N") {
+        alert("Ok, o jogo não será alugado/devolvido");
+    } else {
+        alterarBotao(id);
+    }
 }
 
 function alterarBotao(id) {
