@@ -1,5 +1,5 @@
 ## SOBRE ✍
-Projeto com o objetivo de melhorar a lógica de programação, utilizando o javascript e crianco um sorteador de numeros
+Projeto com o objetivo de melhorar a lógica de programação, utilizando o javascript e a criação de loja online para alugar jogos.Utilizando principalmente if/else e funções
 
 ## 👨‍💻 TECNOLOGIAS UTILIZADAS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = 45/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height= 45 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = 45/>
